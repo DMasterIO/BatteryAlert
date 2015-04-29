@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BatteryAlert</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="disconnect">Disconnect</string>
+    <string name="statusCharged">Charged battery .... To stop the alarm disconnect the device</string>
+    <string name="statusLoading">Loading</string>
+
+</resources>
